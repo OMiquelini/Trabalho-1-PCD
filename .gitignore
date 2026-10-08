@@ -1,0 +1,8 @@
+build/
+out/
+results/raw/*.csv
+results/plots/*
+results/images/
+*.pgm
+__pycache__/
+*.pyc
